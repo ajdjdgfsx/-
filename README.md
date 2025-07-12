@@ -8,5 +8,20 @@
 
 例如pjsk中的名片
 
-使用termux需要使用'cp qr ~/'复制到根目录下执行
+使用教程：
 
+安卓：
+
+通过termux打开：
+
+cd 到解压后的位置
+
+cp qr_linux_arm64 ~/
+
+chmod +x qr_linux_arm64
+
+./qr_linux_arm64
+
+window：
+
+解压后双击打开
